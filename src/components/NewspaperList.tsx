@@ -20,6 +20,7 @@ const PaperDiv = styled.div`
     font-family: "Times New Roman", Helvetica, sans-serif;
     text-align: center;
     background-color: wheat;
+    font-size: 0.75vw;
     `;
 const TitleDiv = styled.div`
     text-align: center;
